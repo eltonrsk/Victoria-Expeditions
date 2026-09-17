@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Compass, Send } from 'lucide-react';
+import { Mail, Phone, MapPin, Send } from 'lucide-react';
 import { ctaContent, navLinks } from '@/data/content';
 import { Reveal } from '@/components/Reveal';
 
