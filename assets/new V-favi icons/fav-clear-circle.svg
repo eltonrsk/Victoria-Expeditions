@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <clipPath id="c">
+      <circle cx="32" cy="32" r="32" />
+    </clipPath>
+  </defs>
+  <image href="/assets/new%20V-favi%20icons/fav%20clear.png" x="0" y="0" width="64" height="64" clip-path="url(#c)" preserveAspectRatio="xMidYMid slice" />
+</svg>
